@@ -9,3 +9,6 @@ Installation Instructions
 ### Prerequisites
 - Ensure you have [PostgreSQL](https://www.postgresql.org/download/) installed.
 - Make sure the `psql` command line tool is accessible.
+
+### Cloning the Repository
+Clone the repository to your local machine:
