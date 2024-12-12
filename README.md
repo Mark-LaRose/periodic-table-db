@@ -5,3 +5,7 @@ This project is a database-driven application that stores information about elem
 The project includes a PostgreSQL database and a Bash script for querying element data.
 
 Installation Instructions
+
+### Prerequisites
+- Ensure you have [PostgreSQL](https://www.postgresql.org/download/) installed.
+- Make sure the `psql` command line tool is accessible.
